@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_1095" data-name="Group 1095" transform="translate(-1303.768 -116)">
+    <g id="Rectangle_530" data-name="Rectangle 530" transform="translate(1303.768 116)" fill="#fff" stroke="#6bb3d2" stroke-width="1">
+      <rect width="32" height="32" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="15.5" fill="none"/>
+    </g>
+    <g id="pencil_1_" data-name="pencil (1)" transform="translate(1312.018 123.821)">
+      <g id="Group_1096" data-name="Group 1096" transform="translate(0 0)">
+        <path id="Path_269" data-name="Path 269" d="M15.913,2.655,13.684.424a1.52,1.52,0,0,0-2.1,0L1.594,10.511a.374.374,0,0,0-.094.16L.014,15.877a.372.372,0,0,0,.459.46l5.2-1.488a.373.373,0,0,0,.16-.094l10.079-10a1.488,1.488,0,0,0,0-2.1Zm-5.951.473L11.33,4.5,4.189,11.637l-.512-1.025a.372.372,0,0,0-.332-.205h-.6ZM.912,15.439,1.4,13.744l1.21,1.21ZM5.2,14.213l-1.778.508L1.63,12.927l.508-1.778h.976l.64,1.281a.372.372,0,0,0,.166.166l1.281.64v.976Zm.743-.611v-.6a.372.372,0,0,0-.205-.332l-1.025-.512,7.141-7.141,1.368,1.368Zm9.444-9.36L13.751,5.866,10.485,2.6,12.108.963a.761.761,0,0,1,1.051,0l2.229,2.229a.743.743,0,0,1,0,1.05Z" transform="translate(0 -0.002)" fill="#6bb3d2"/>
+      </g>
+    </g>
+  </g>
+</svg>
